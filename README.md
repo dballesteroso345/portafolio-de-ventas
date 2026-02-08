@@ -10,7 +10,7 @@
 
 ## 🌟 ¿Quién soy?
 
-Soy **[Tu nombre]**, consultor especializado en **[área: tecnología, marketing, data, estrategia, IA, etc.]**.  
+Soy **mentes millonarias**, consultor especializado en **[área: tecnología, marketing, data, estrategia, IA, etc.]**.  
 Ayudo a empresas y startups a **optimizar procesos, aumentar ingresos y reducir costos** con soluciones estratégicas y tecnológicas.
 
 ---
